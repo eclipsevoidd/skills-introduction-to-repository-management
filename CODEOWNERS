@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @eclipsevoidd
+/src/backend/database.py      @eclipsevoidd
+/src/backend/routers/auth.py  @eclipsevoidd
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @eclipsevoidd
